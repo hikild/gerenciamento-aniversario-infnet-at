@@ -1,0 +1,12 @@
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.deps.json
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.pdb
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.pdb
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.csproj.AssemblyReference.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.AssemblyInfoInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.AssemblyInfo.cs
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.csproj.CoreCompileInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.csproj.CopyComplete
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.repository.pdb

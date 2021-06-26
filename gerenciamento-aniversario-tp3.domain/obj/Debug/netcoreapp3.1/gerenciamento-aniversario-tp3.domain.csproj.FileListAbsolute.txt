@@ -1,0 +1,9 @@
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.deps.json
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\bin\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.pdb
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.csproj.AssemblyReference.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.AssemblyInfoInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.AssemblyInfo.cs
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.csproj.CoreCompileInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.domain\obj\Debug\netcoreapp3.1\gerenciamento-aniversario-tp3.domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.deps.json
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.pdb
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario.domain.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\bin\Debug\netcoreapp3.1\gerenciamento-aniversario.domain.pdb
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.csproj.AssemblyReference.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.AssemblyInfoInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.AssemblyInfo.cs
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.csproj.CoreCompileInputs.cache
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.csproj.CopyComplete
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.dll
+C:\Users\kin-v\source\repos\gerenciamento-aniversario-tp3\gerenciamento-aniversario-tp3.repository\obj\Debug\netcoreapp3.1\gerenciamento-aniversario.repository.pdb

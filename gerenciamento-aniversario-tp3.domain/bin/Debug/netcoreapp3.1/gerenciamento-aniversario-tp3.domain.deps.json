@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gerenciamento-aniversario-tp3.domain/1.0.0": {
+        "runtime": {
+          "gerenciamento-aniversario-tp3.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerenciamento-aniversario-tp3.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
